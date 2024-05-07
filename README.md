@@ -1,8 +1,8 @@
-# Android Vendor tree for Vortex CG65 (MT6765)
+# Vendor Tree for Vortex CG65 (MT6765)
 
 ![Vortex CG65 Image](https://standupwireless.com/wp-content/uploads/CG65.png)
 
-[Vortex CG65 ROM Device Tree](https://github.com/1ndev-ui/ROM_CG65_device_tree) / [TWRP Device Tree](https://github.com/1ndev-ui/TWRP_CG65_device_tree)
+[Vortex CG65 ROM Device Tree](https://github.com/1ndev-ui/ROM_CG65_device_tree) / [TWRP Device Tree](https://github.com/1ndev-ui/TWRP_CG65_device_tree) / [Stock ROM Dump](https://github.com/1ndev-ui/dump_cg65)
 
 ## SPECIFICATIONS:
 
